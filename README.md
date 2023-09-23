@@ -4,7 +4,7 @@
 #### Technical Skills: Power-BI, PowerApps, Sharepoint, SQL, MS-Excel
 
 ## Education					       		
-- M.B.A., Operational Excellence	| Hochschule Hof university of applied sciences, Germany (_October 2021_)	 			        		
+- M.B.A., Operational Excellence	| Hochschule Hof university of applied sciences, Germany (_October 2021 - Present_)	 			        		
 - B.E., Mechanical Engineering | The University of Mumbai, India. (_July 2019_)
 
 
