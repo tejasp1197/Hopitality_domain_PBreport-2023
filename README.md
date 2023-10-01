@@ -9,7 +9,7 @@
 - B.E., Mechanical Engineering | The University of Mumbai, India. (_July 2019_)
 
 
-# [Hospitality_domain_data_analytics-2023] (https://github.com/tejasp1197/Hopitality_domain_PBreport-2023)
+# [Hospitality_domain_data_analytics-2023](https://github.com/tejasp1197/Hopitality_domain_PBreport-2023)
 It is an visualization of a hospiyality domain
 
 ![Portfolio Overview](Hospitality Dashboard.jpg)
